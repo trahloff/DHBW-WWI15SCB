@@ -1,0 +1,12 @@
+- analyse:
+  - funktionale/nicht funktionale dingens
+- allg:
+  - alles in einem grauen kasten
+  - begriffe in den zusammenfassungen
+  - uml diagramme
+    - grundlagen
+    - klassendiagram
+    - objektdiagram
+    - use-case
+    - sequenzdiagram
+  - **analyse**
