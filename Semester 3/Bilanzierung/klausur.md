@@ -1,0 +1,4 @@
+- Arten von Kaufmenschen
+- Bestandteile des Jahresabschlusses
+- Matritzen (WA Gruppe)
+- zweckbestimmung im zeitpunkt des erbwerbs!!!!!!!!!!
