@@ -1,0 +1,4 @@
+nicht klausurrelevant:
+
+rechtecksverteilung
+exponentialverteilung
