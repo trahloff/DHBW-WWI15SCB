@@ -16,3 +16,11 @@ Buch: teil 5
 Kapitel 7
 
 - asd
+
+
+slide 2-88 IRGENDWAS DAVON KOMMT DRAN
+bis slide 121 (Was passiert mit Preis...) klausurrelevant
+
+wiwiweb youtube
+
+größter nutzen auf indifferenzkurve? immer gleich groß
