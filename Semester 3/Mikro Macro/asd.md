@@ -1,0 +1,19 @@
+- Grenzrate der Substitution
+  - wie viel ich bereit bin aufzugeben
+- inferioses gut
+  - normales brot < bio brot
+- Produktivität = BIP/Arbeitsstd
+- Catch-Up-Effekt
+  - Abnehmen der Grenznutzen (Auf die Füße treten bei Feldern)
+- Y = C+I+G+NX
+  - Y= BIP
+  - C=Consum
+  - I=Investition
+  - G=Staatsausgaben
+  - NX=Exporte
+- Magisches Viereckt
+  - hoher beschäftigungsgrad
+  - außenwirtsch gleichgewicht
+  - stetiges wirtschwachstum
+  - stabiles preisniveau
+  - &rArr; nicht alles gleichzeitig zu erreichen
