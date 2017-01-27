@@ -71,5 +71,9 @@ letzte session:
     - bzgl Marktformenlehre
       - Monopolist -> steigende Skalenerträge
     - im vgl zu den anderen komponenten macht der außenbeitrag durch den starken exportsektor den größten sektor am bip aus? nein
-    - privatkonsum ist größte komponente des BIPs 
+    - privatkonsum ist größte komponente des BIPs
+
+- conoischer punkt:
+- - zeigt für Monopilist gewinnmaximierende Preis-Mengenkombination
+- ist durch den Schnittpunkt von Grenzkosten- und Grenzerlösfunktion gegeben
       -
