@@ -76,4 +76,5 @@ letzte session:
 - conoischer punkt:
 - - zeigt für Monopilist gewinnmaximierende Preis-Mengenkombination
 - ist durch den Schnittpunkt von Grenzkosten- und Grenzerlösfunktion gegeben
-      -
+
+Y/L = EInkommen/Arbeit
