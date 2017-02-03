@@ -11,7 +11,7 @@ Pert Exercie in Folienpart 4 ist KLAUSURRELEVANT und gibt 16p
 - def of project
 - project attributes. what is a sponsor, stakeholder
 - risikos
-- projekt/prozess
+- projekt/prozess                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
 - success factors
 - why are projects challange
 - triple constraint
@@ -31,4 +31,4 @@ Pert Exercie in Folienpart 4 ist KLAUSURRELEVANT und gibt 16p
 - PERT
 - Keine Varianz
 - proj metrics
-- 
+-
