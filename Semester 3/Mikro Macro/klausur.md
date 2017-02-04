@@ -78,3 +78,12 @@ letzte session:
 - ist durch den Schnittpunkt von Grenzkosten- und Grenzerlösfunktion gegeben
 
 Y/L = EInkommen/Arbeit
+
+
+
+
+alex:
+- angebot-nachfrage (eisladen)
+- produktion (grenzkosten/erlös) --> aufgabe (geraden aufstellen)
+- (indifferenzkurven)
+- 
