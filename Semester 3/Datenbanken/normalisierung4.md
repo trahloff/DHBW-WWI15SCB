@@ -1,7 +1,3 @@
-Header One | Header Two | Header Two | Header Two | Header Two | Header Two
-:--------- | :--------- | :--------- | :--------- | :--------- | :---------
-Item One   | Item       | Item       | Item       | Item       | Item
-
 # Schlüsselkandidaten
 
 - **Vereinsbezeichnung** => {Gründungsjahr}
