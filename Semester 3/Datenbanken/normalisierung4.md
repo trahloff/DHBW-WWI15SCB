@@ -46,5 +46,5 @@ Spielernummer | Vereinsbezeichnung | SpielerVorName | SpielerNachName | Geburtsd
 
 # 3NF
 
-Siehe Kommentar 1NF. Abgesehen von den Namen. Gibt es keine funktionale Abhängigkeiten zwischen Nichtschlüssel-Attributen:<br>
-Name &ne; {Datum}
+Gibt keine funktionale Abhängigkeiten zwischen Nichtschlüssel-Attributen:<br>
+Name ≠ {Datum}
