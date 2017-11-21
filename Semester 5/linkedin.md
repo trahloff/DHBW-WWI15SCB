@@ -1,0 +1,8 @@
+The cooperative state university in Stuttgart (DHBW) offers dual education programs focused on practical applications. The three-year dual education program is divided into three-month phases alternating between the university and the corporate education partner, in my case IBM. The university phases provide traditional undergraduate education while the other phases provide insights and work experiences in the field of the corporate education partner. This includes a number of IT and strategy consulting projects for an automobile manufacturer and health insurance, as well as sales and marketing:
+
+Jan 13 - Mar 13    Marketing & Sales: IBM Guided Tours at CeBIT 2013 (Ehningen, Hanover)
+Jun 13 - Aug 13    Sales: Business Analytics Solution Sales (Ehningen)
+Dec 13 - Mar 14    Consulting: Project Management (Munich)
+Jul 14 - Nov 14    Consulting: Project Management (Hamburg)
+Feb 15 - Apr 15    Consulting: Bachelor Thesis at IBM Smarter Workforce (Stuttgart, Munich)
+Jul 15 - Sep 15    Sales: IBM Digital Sales (Herrenberg)
