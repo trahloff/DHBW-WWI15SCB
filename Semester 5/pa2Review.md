@@ -1,0 +1,26 @@
+- Einrückungen
+- Sprung in EInrückung Table of Tables
+- Proofreading. Falsch gerenderte Quellenangaben
+- Technologie Theory eher hinten im Vergleich
+- Allgemeingültigkeit schon in Introduction statt Projektziel
+- Nummer für Formeln
+- Einheiten in Rechnungen
+- chpt 2 eher Literatur ansatz; was gibt es? was ist ungelöst?
+- projektkontext muss nicht; wenn dann nur für relevanz des themas
+- Systemanalyse, fun/nfun Anforderungen definieren
+- references vor appendix
+- mehr paper
+- mehr stoff:
+    - wirtsch relevanz
+    - mehr literaturarbeit
+    - paper, die selbe experiment methodik haben
+    - paper zu experiment design
+    - literatur diskussion warum man nicht akademisch sind
+
+- Betreuer
+    - Drabant
+    - Pagnia
+    - Reichwalt
+    - Pfisterer
+    - Zube
+
