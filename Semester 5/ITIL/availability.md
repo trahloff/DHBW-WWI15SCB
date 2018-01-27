@@ -1,6 +1,6 @@
 # Availability Management: Metrics
 
-`Downtime = SUM(Ausfallzeiten)`
+`Downtime = SUM(Ausfallzeiten_während_Betrachtungszeitraum)`
 
 `Uptime = Betrachtungszeit - Downtime`
 
