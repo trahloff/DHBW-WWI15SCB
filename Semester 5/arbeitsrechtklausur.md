@@ -1,0 +1,12 @@
+- navigation durch restrukturierung
+- mehr zusammenhang verstehen und nicht paragraphen auswendig lernen
+- kein gutachten stil 
+- sachfragen werden gestellt, die beantwortet werden müssen
+- Sachverhalt --> liegt eine Betriebsänderung vor? (kann auch bei gleichem verhalt und versch orten versch sein)
+- betriebsrat 
+- mitbestimmungsrechte (keine langen definitionen)
+- mitbestimmungsrechte in kombination mit durchführungsweg (verhandlung und einigungsstelle) bringen
+- Transfergesellschaften: wo verortet man TG; wo hilfreich, wo nicht hilfreich 
+- sozialpläne
+- mitbestimmungsrechte auch in kontext/kombination setzen, verstehen
+- vorteile/nachteile von TG
