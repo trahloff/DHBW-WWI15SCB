@@ -28,7 +28,3 @@
   - Slide 15 egal
   - Bestimmte Ereignisdiagnostische Verfahren sehr relevant
   - AC Qualitätsstandards?
-
-
-- Komm/Sprche: 91-161
-- Kap3.1: 18-20
