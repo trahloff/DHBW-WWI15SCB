@@ -36,24 +36,23 @@
 
 ### Consumes
 
-- Betreuerpool 
-- Kontaktinfos 
+- Betreuerpool
+- Kontaktinfos
 - Fristverlängerungsantragsantwort (& Gegenvorschlag)
 - Anmeldung
 
 ### Produces
 
 - Modifikation Betreuerpool
-- Modifikation Frist 
+- Modifikation Frist
 - Fristverlängerungsantrag
 - Notifications
-    - Unvollständigkeit
-    - Frist(-Verlängerung, etc)
-    - 
+  - Unvollständigkeit
+  - Frist(-Verlängerung, etc)
 - Abgabe/Thesis
-    - Status
-    - Bewertung
-    - Verlängerung?
+  - Status
+  - Bewertung
+  - Verlängerung?
 
 ## Summerschool
 
@@ -61,15 +60,15 @@
 
 ### Consumes
 
-- Anmeldung 
+- Anmeldung
 - Mietwageninfos (DB?)
 
 ### Produces
 
-- Moodle Kurs 
+- Moodle Kurs
 - Notifications
-    - Zu-/Absagen
-    - A Shitton 
+  - Zu-/Absagen
+  - A Shitton
 
 ## Bedarfsmeldung
 
@@ -91,6 +90,8 @@
 
 ## Firmenzulassung
 
+(Jin)
+
 ### Consumes
 
 - Anfragen/Anträge
@@ -99,19 +100,19 @@
 ### Produces
 
 - Neue Unternehmensprofile
-- Anträge intern 
-- A metric fuckton Notifications
+- Anträge intern
 
 ## Externe Lehrbeauftragte
+
+(Jasmin)
 
 ### Consumes
 
 ### Produces
 
+## Gemeinsamkeiten
 
-
-## Anmerkungen
-
-- ContactProvider
-- Überlegt euch was manuell/programmatisch ist
-
+- ContactProvider, der MailAdressen etc vorhält
+- NotificationService?
+- Eine Art von Rollenmodell, dass einen manuellen Override erlaubt
+- Gemeinsame Studenten-DB
