@@ -12,7 +12,7 @@ c) SLM
 
 ## Financial Mngmt welcher Typ Provider? 
 
-d) 2/3 
+a) alle drei
 
 ## Welches ist kein Service Design Prozess? 
 
