@@ -4,15 +4,15 @@ Slide 109
 
 ## 1 Ziele SLM 
 
-b) nur a
+a
 
 ## Welcher Prozess Erfüllung fer Serviceziele überprüfen
 
-c) SLM 
+c SLM 
 
 ## Financial Mngmt welcher Typ Provider? 
 
-d) 2/3 
+a
 
 ## Welches ist kein Service Design Prozess? 
 
@@ -24,16 +24,17 @@ c
 
 ## underpinning contracts
 
-b/c, eher c 
+c
 
 ## suppliert ,manger 
 
-a 
+b
 
 
 ## beurteilung catalouge 
 
 manche nennungen sind teilmengen von anderen 
+& müsste nach kundenkriterien sortiert sein
 
 ## welche drei teilprozesse 
 
@@ -41,11 +42,11 @@ Business, service, component mngmt
 
 ## welcher service design prozess eng mit   demand mngmt 
 
-wtf 
+capacity mngtm. weil gegenseitige anpassung
 
 ## was ist SPOF und welcher prozess 
 
-single point of failure. ITSM und Continuity mnmgt 
+single point of failure. Continuity mnmgt & Availability Management
 
 ## richtig oder falsch 
 
@@ -53,5 +54,4 @@ single point of failure. ITSM und Continuity mnmgt
 2. Falsch, nach Kundenanforderungskriterien 
 3. Richtig
 4. Falsch
-5. Richtig 
-6. Leo=Falsch, Tobi=Richtig
+5. Falsch
