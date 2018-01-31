@@ -52,6 +52,6 @@ single point of failure. Continuity mnmgt & Availability Management
 
 1. Falsch, das in strategy 
 2. Falsch, nach Kundenanforderungskriterien 
-3. Richtig
-4. Falsch
+3. Falsch
+4. Richtig
 5. Falsch
