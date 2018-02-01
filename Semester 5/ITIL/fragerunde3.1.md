@@ -36,3 +36,9 @@ c
 
 - ICAB kann das regeln
 
+
+# Richtig/Falsch
+
+1. Richtig
+2. Falsch
+3. Richtig
