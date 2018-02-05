@@ -1,5 +1,20 @@
 # Relevante Slides
 
+- [Relevante Slides](#relevante-slides)
+    - [Kap1](#kap1)
+    - [Kap2](#kap2)
+    - [Kap3](#kap3)
+    - [Kap4](#kap4)
+    - [Kap5](#kap5)
+    - [Kap6](#kap6)
+    - [Kap7](#kap7)
+    - [Kap8](#kap8)
+    - [Kap9](#kap9)
+    - [Kap10](#kap10)
+    - [Kap11](#kap11)
+    - [Kap12](#kap12)
+    - [Kap13](#kap13)
+
 ## Kap1 
 
 - 2-4
@@ -63,7 +78,17 @@
 
 ## Kap11
 
+- 4-6
+- 9
+- 11 - 13
+- 19, 20
 
 ## Kap12
 
+- nix
+
 ## Kap13
+
+- 1, 2
+- 4
+- 7
