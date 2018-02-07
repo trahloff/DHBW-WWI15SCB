@@ -1,39 +1,14 @@
-- Service Strategy
-  - Strategy Management for IT Services
-  - Service Portfolio Management
-  - Financial Management 
-  - Demand Management
-  - Business Relationship Management
-- Service Design
-  - Service Catalogue Management
-  - Service Level Management
-  - Capacity Management
-- Business Capacity Management
-- Service Capacity Management
-- Component Capacity Management
-  - Availability Management
-  - IT Service Continuity Management
-  - Information Security Management
-  - Supplier Management
-- Service Transition
-  - Transition Planning and Support
-  - Change Management
-  - Service Asset and Configuration Management
-  - Release Management
-  - Sonstige Prozesse
-- Service Validation and Testing
-- Evaluation
-- Knowledge Management
-- Service Operation
-  - So-Funktionen
-- Service Desk
-- IT Operation Management
-- Technical Management
-- Application Management
-  - Event Management
-  - Incident Management
-  - Request Fulfillment
-  - Problem Management
-  - Access Management
-- Continues Service Improvement
+Slide 184ff
 
+- 183
+    - a
+    - a
+    - c
+- 184
+    - d
+    - b
+    - b
+- 185
+    - a
+- 186
+    - 
