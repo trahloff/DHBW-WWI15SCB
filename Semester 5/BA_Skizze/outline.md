@@ -8,7 +8,7 @@
     - Method Evaluation
     - Research Model
     - Operationalization
-6. Prototype/design?/SoftwEngiCycle
+6. Design (shortened Softw.Eng.Cycle) &rarr; Highlevel Prototypes
 5. Fit + Viability Evaluation
 7. Validation 
     - General Method Suitability
